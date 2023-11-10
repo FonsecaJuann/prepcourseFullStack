@@ -1,2 +1,8 @@
-# prepcourseFullStack
-repositorio de prueba para prepcourse henry
+Juan Gabriel Fonseca Ropero
+ensayo de como crear un repositorio y clonarlo a mi repositorio local, comandos
+ git clone https:...
+ cd nombreReositorio/
+ code .
+ git add README.ad
+ git commit -m "en relacion al proyecto...
+ ...
